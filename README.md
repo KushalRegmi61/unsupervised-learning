@@ -1,5 +1,5 @@
 
-# Week 10: Unsupervised Learning and Market Basket Analysis
+# Week 10: Unsupervised ML Techniques
 
 This repository contains implementations of unsupervised learning techniques and association rule mining, applied to both numerical and mixed-type datasets.
 
