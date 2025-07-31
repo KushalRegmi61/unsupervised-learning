@@ -1,5 +1,5 @@
 
-# Week 10: Unsupervised Learning & Association Rule Mining
+# Week 10: Unsupervised Learning 
 
 This repository contains implementations of unsupervised learning techniques and association rule mining, applied to both numerical and mixed-type datasets.
 
@@ -18,7 +18,7 @@ This repository contains implementations of unsupervised learning techniques and
 ```
 ├── data/                  # Cleaned and raw datasets
 ├── clustering/
-│   └── customersegmentation.ipynb      
+│   └── customersegmentation.ipynb    # bank customer credit worthiness identification
 ├── association_rule_mining/
 │   └── arm.ipyb           # Support-confidence plots
 └── README.md
