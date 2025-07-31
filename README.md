@@ -18,10 +18,8 @@ This repository contains implementations of unsupervised learning techniques and
 ```
 ├── data/                  # Cleaned and raw datasets
 ├── clustering/
-│   ├── kmeans_analysis.py         # KMeans implementation and evaluation
-│   ├── hierarchical_clustering.py # Dendrograms and agglomerative clustering
-│   └── kprototypes_mixed.py       # Clustering with mixed-type data using KPrototypes
-├── association_rules/
+│   └── customersegmentation.ipynb      
+├── association_rule_mining/
 │   └── arm.ipyb           # Support-confidence plots
 └── README.md
 ```
@@ -73,6 +71,6 @@ This repository contains implementations of unsupervised learning techniques and
 
 ## Related Links
 
-- Fellowship Progress Log (to be added)
-- Summary Notebook: `notebook_summaries/summary_week10.ipynb`
+- Fellowship Progress Log : [Full Fellowship Progress](https://github.com/KushalRegmi61/AI_Fellowship_FuseMachines)
+
 
